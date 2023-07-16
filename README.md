@@ -278,6 +278,7 @@ See also *[`Android Exploits`](https://github.com/sundaysec/Android-Exploits)* -
 * [`Mobile Security Wiki`](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
 * [`OSX Security Awesome`](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 * [`OWASP Mobile Security Testing Guide`](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
+* [`symbiote`](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras can be accessed by sending a link.
 * [`Quark-Engine`](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System.
 * [`reFlutter`](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework.
 * [`SecMobi Wiki`](http://wiki.secmobi.com/) - A collection of mobile security resources which including articles, blogs, books, groups, projects, tools and conferences. *
@@ -567,6 +568,7 @@ See also *[`awesome-honeypots`](https://github.com/paralax/awesome-honeypots)* -
 
 **[`^        back to top        ^`](#overview)**
 
+* [`Above`](https://github.com/c4s73r/Above) - Automates the search for network vulnerabilities, designed for pentesters, Red Team operators, and network security engineers. 
 * [`Boofuzz`](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 * [`celerystalk`](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
 * [`Deepfence SecretScanner`](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
@@ -785,11 +787,13 @@ See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-co
 * [`Linux Exploit Suggester`](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
 * [`linuxprivchecker`](https://github.com/sleventyeleven/linuxprivchecker) - Linux Privilege Escalation Check Script
 * [`linux-private-i`](https://github.com/rtcrowley/linux-private-i) - Linux bash tool for Enumeration & Privilege Escalation.
+* [`Linux-Privilege-Escalation`](https://github.com/Ignitetechnologies/Linux-Privilege-Escalation) -  This cheatsheet is aimed at the OSCP aspirants to help them understand the various methods of Escalating Privilege on Linux based Machines and CTFs with examples.
 * [`linux-smart-enumeration`](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels.
 * [`LOLBAS (Living Off The Land Binaries and Scripts)`](https://lolbas-project.github.io/) - Documents binaries, scripts, and libraries that can be used for "Living Off The Land" techniques, i.e., binaries that can be used by an attacker to perform actions beyond their original purpose.
 * [`Lynis`](https://cisofy.com/lynis/) - Auditing tool for UNIX-based systems.
 * [`Postenum`](https://github.com/mbahadou/postenum) - Shell script used for enumerating possible privilege escalation opportunities on a local GNU/Linux system.
 * [`pyBackdoor`](https://github.com/xp4xbox/Python-Backdoor) - a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support.
+* [`SSH-Harvester`](https://github.com/jm33-m0/SSH-Harvester) - Harvest passwords automatically from OpenSSH server.
 * [`unix-privesc-check`](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
 
 #### Linux Online Resources
@@ -1196,6 +1200,7 @@ See also *[`Proxies and Machine-in-the-Middle (MITM) Tools`](#proxies-and-machin
 * [`is-website-vulnerable`](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 * [`JCS`](https://github.com/TheM4hd1/JCS) - Joomla Vulnerability Component Scanner with automatic database updater from exploitdb and packetstorm.
 * [`joomscan`](https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) - Joomla vulnerability scanner.
+* [`katana`](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 * [`Keyscope`](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust.
 * [`Nikto`](https://cirt.net/nikto2) - Noisy but fast black box web server and web application vulnerability scanner.
 * [`Recon-ng`](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.

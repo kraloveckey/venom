@@ -517,7 +517,8 @@ See also *[`awesome-honeypots`](https://github.com/paralax/awesome-honeypots)* -
 * [`ngrep`](http://ngrep.sourceforge.net/) - ngrep strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
 * [`Node Security Platform`](https://nodesecurity.io/) - Similar feature set to Snyk, but free in most cases, and very cheap for others.
 * [`ntopng`](http://www.ntop.org/products/traffic-analysis/ntop/) - Ntopng is a network traffic probe that shows the network usage, similar to what the popular top Unix command does.
-* [`opensnitch`](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+* [`opensnitch`](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
+* [`openvpn-monitor`](https://github.com/furlongm/openvpn-monitor) - Web based OpenVPN monitor, that shows current connection information, such as users, location and data transferred. 
 * [`OSSIM`](https://www.alienvault.com/open-threat-exchange/projects) - OSSIM provides all of the features that a security professional needs from a SIEM offering – event collection, normalization, and correlation.
 * [`plow`](https://github.com/six-ddc/plow) - High-performance HTTP benchmarking tool with real-time web UI and terminal displaying.
 * [`Prelude`](https://www.prelude-siem.org/) - Prelude is a Universal "Security Information & Event Management" (SIEM) system. Prelude collects, normalizes, sorts, aggregates, correlates and reports all security-related events independently of the product brand or license giving rise to such events; Prelude is "agentless".
@@ -629,6 +630,7 @@ See also *[`Web Proxies Intercepting`](#web-proxies-intercepting)*.
 
 * [`crackpkcs12`](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
 * [`localhost.direct`](https://github.com/Upinel/localhost.direct) - Localhost with public CA signed SSL certificate.
+* [`mkcert`](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 * [`SSLyze`](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
 * [`testssl.sh`](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
 * [`tls_prober`](https://github.com/WestpointLtd/tls_prober) - Fingerprint a server's SSL/TLS implementation.
@@ -1205,6 +1207,7 @@ See also *[`Proxies and Machine-in-the-Middle (MITM) Tools`](#proxies-and-machin
 * [`Nikto`](https://cirt.net/nikto2) - Noisy but fast black box web server and web application vulnerability scanner.
 * [`Recon-ng`](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 * [`recon`](https://github.com/rusty-ferris-club/recon) - a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts.
+* [`reconFTW`](https://github.com/six2dez/reconftw) - A tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities.
 * [`Scanmycode CE (Community Edition)`](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
 * [`SecApps`](https://secapps.com/) - In-browser web application security testing suite.
 * [`skipfish`](https://www.kali.org/tools/skipfish/) - Performant and adaptable active web application security reconnaissance tool.

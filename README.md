@@ -327,6 +327,7 @@ See also *[`Reverse Engineering`](#reverse-engineering)*.
 * [`Magic Unicorn`](https://github.com/trustedsec/unicorn) - Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or `certutil` (using fake certificates).
 * [`peda`](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
 * [`Pwntools`](https://github.com/Gallopsled/pwntools) - Rapid exploit development framework built for use in CTFs.
+* [`VcenterKit`](https://github.com/W01fh4cker/VcenterKit) - Vcenter Comprehensive Penetration and Exploitation Toolkit.
 * [`Wordpress Exploit Framework`](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 
 ------
@@ -468,6 +469,7 @@ See also *[`Reverse Engineering`](#reverse-engineering)*.
 * [`OSSEC`](https://ossec.github.io/) - Comprehensive Open Source HIDS. Not for the faint of heart. Takes a bit to get your head around how it works. Performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. It runs on most operating systems, including Linux, MacOS, Solaris, HP-UX, AIX and Windows. Plenty of reasonable documentation. Sweet spot is medium to large deployments.
 * [`Security Onion`](http://blog.securityonion.net/) - Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Zeek, OSSEC, Sguil, Squert, Snorby, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
 * [`Snort`](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS)created by Martin Roesch in 1998. Snort is now developed by Sourcefire, of which Roesch is the founder and CTO. In 2009, Snort entered InfoWorld's Open Source Hall of Fame as one of the "greatest [pieces of] open source software of all time".
+* [`ssh-audit`](https://github.com/jtesta/ssh-audit) -  SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
 * [`SSHGuard`](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C.
 * [`sshwatch`](https://github.com/marshyski/sshwatch) - IPS for SSH similar to DenyHosts written in Python. It also can gather information about attacker during the attack in a log.
 * [`Stealth`](https://fbb-git.gitlab.io/stealth/) - File integrity checker that leaves virtually no sediment. Controller runs from another machine, which makes it hard for an attacker to know that the file system is being checked at defined pseudo random intervals over SSH. Highly recommended for small to medium deployments.
@@ -795,6 +797,7 @@ See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-co
 * [`Lynis`](https://cisofy.com/lynis/) - Auditing tool for UNIX-based systems.
 * [`Postenum`](https://github.com/mbahadou/postenum) - Shell script used for enumerating possible privilege escalation opportunities on a local GNU/Linux system.
 * [`pyBackdoor`](https://github.com/xp4xbox/Python-Backdoor) - a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support.
+* [`PwnKit`](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation.
 * [`SSH-Harvester`](https://github.com/jm33-m0/SSH-Harvester) - Harvest passwords automatically from OpenSSH server.
 * [`unix-privesc-check`](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
 

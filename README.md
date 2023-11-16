@@ -1,5 +1,9 @@
 # Venom Information Security Collection
 
+<h1 align="center">
+  <a href="https://github.com/kraloveckey/venom"><img src="images/venom-logo.png" width=150 height=140 lt="Venom"></a>
+</h1>
+
 > The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
 
 [`Information security (or InfoSec)`](https://en.wikipedia.org/wiki/Information_security), is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or reducing the probability of unauthorized/inappropriate access to data, or the unlawful use, disclosure, disruption, deletion, corruption, modification, inspection, recording, or devaluation of information. It also involves actions intended to reduce the adverse impacts of such incidents. Information security's primary focus is the balanced protection of the data confidentiality, data integrity, and data availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.

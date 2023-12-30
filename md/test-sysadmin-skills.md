@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kraloveckey/venom/md">
+  <a href="https://github.com/kraloveckey/venom/tree/main/md">
     <img src="../images/img/sysadmin_preview.png" alt="Master">
   </a>
 </p>

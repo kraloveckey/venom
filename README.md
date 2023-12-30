@@ -413,6 +413,7 @@ See also *[`Reverse Engineering`](#reverse-engineering)*.
 * [`Intercepter-NG`](http://sniff.su/) - Multifunctional network toolkit.
 * [`Legion`](https://github.com/GoVanguard/legion) - Graphical semi-automated discovery and reconnaissance framework based on Python 3 and forked from SPARTA.
 * [`Ncrack`](https://nmap.org/ncrack/) - High-speed network authentication cracking tool built to help companies secure their networks by proactively testing all their hosts and networking devices for poor passwords.
+* [`NetExec`](https://github.com/Pennyw0rth/NetExec) - Network service exploitation tool that helps automate assessing the security of large networks.
 * [`Network-Tools.com`](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
 * [`pivotsuite`](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
 * [`Praeda`](http://h.foofus.net/?page_id=218) - Automated multi-function printer data harvester for gathering usable data during security assessments.
@@ -487,6 +488,7 @@ See also *[`Reverse Engineering`](#reverse-engineering)*.
 **[`^        back to top        ^`](#overview)**
 
 * [`abuseipdb`](https://www.abuseipdb.com/) - Check an IP Address, Domain Name, or Subnet.
+* [`CloakQuest3r`](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others.
 * [`ifconfig.io`](https://ifconfig.io/) - What is my ip address?.
 * [`iknowwhatyoudownload`](https://iknowwhatyoudownload.com/en/peer/) - Use internet connection of other people (Wi Fi, their computers, tablets and smartphones) to know what they download in torrent network.
 * [`ipdeny`](https://www.ipdeny.com/ipblocks/) - All country IP block files are provided in CIDR format.
@@ -697,6 +699,7 @@ See also *[`awesome-osint`](https://github.com/jivoi/awesome-osint)*.
 * [`Spiderfoot`](http://www.spiderfoot.net/) - Multi-source OSINT automation tool with a Web UI and report visualizations.
 * [`surfraw`](https://github.com/kisom/surfraw) - Fast UNIX command line interface to a variety of popular WWW search engines.
 * [`Threat Crowd`](https://www.threatcrowd.org/) - Search engine for threats.
+* [`z-cam`](https://github.com/sankethj/z-cam) - The First Python Compatible Camera Hacking Tool.
 
 ### Dorking tools
 
@@ -789,6 +792,7 @@ See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-co
 * [`checksec.sh`](https://www.trapkit.de/tools/checksec.html) - Shell script designed to test what standard Linux OS and PaX security features are being used.
 * [`Fenrir`](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner bash script.
 * [`GTFOBins`](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+* [`How-To-Secure-A-Linux-Server`](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. 
 * [`Hwacha`](https://github.com/n00py/Hwacha) - Post-exploitation tool to quickly execute payloads via SSH on one or more Linux systems simultaneously.
 * [`LinEnum`](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks.
 * [`LinPEAS`](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) - LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix*/MacOS hosts.
@@ -801,6 +805,7 @@ See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-co
 * [`Lynis`](https://cisofy.com/lynis/) - Auditing tool for UNIX-based systems.
 * [`Postenum`](https://github.com/mbahadou/postenum) - Shell script used for enumerating possible privilege escalation opportunities on a local GNU/Linux system.
 * [`pyBackdoor`](https://github.com/xp4xbox/Python-Backdoor) - a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support.
+* [`RecoverPy`](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or overwritten files from your terminal.
 * [`PwnKit`](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation.
 * [`SSH-Harvester`](https://github.com/jm33-m0/SSH-Harvester) - Harvest passwords automatically from OpenSSH server.
 * [`unix-privesc-check`](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
@@ -914,6 +919,7 @@ See also *[`Awesome Pentest Cheat Sheets`](https://github.com/coreb1t/awesome-pe
 
 **[`^        back to top        ^`](#overview)**
 
+* [`OffSec-Reporting`](https://github.com/Syslifters/OffSec-Reporting) -  Offensive Security OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA Exam and Lab Reporting / Note-Taking Tool.
 * [`Public Pentesting Reports`](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 * [`T&VS Pentesting Report Template`](https://www.testandverification.com/wp-content/uploads/template-penetration-testing-report-v03.pdf) - Pentest report template provided by Test and Verification Services, Ltd.
 * [`Web Application Security Assessment Report Template`](http://lucideus.com/pdf/stw.pdf) - Sample Web application security assessment reporting template provided by Lucideus.

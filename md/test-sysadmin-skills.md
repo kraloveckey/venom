@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kraloveckey/venom/md">
-    <img src="https://github.com/kraloveckey/venom/blob/master/images/img/sysadmin_preview.png" alt="Master">
+    <img src="../images/img/sysadmin_preview.png" alt="Master">
   </a>
 </p>
 

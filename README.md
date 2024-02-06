@@ -1021,6 +1021,7 @@ See also *[`awesome-social-engineering`](https://github.com/v2-dev/awesome-socia
 * [`cppcheck`](http://cppcheck.sourceforge.net/) - Extensible C/C++ static analyzer focused on finding bugs.
 * [`cwe_checker`](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
 * [`FindBugs`](http://findbugs.sourceforge.net/) - Free software static analyzer to look for bugs in Java code.
+* [`Pixee`](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 * [`Progpilot`](https://github.com/designsecurity/progpilot) - Static security analysis tool for PHP code.
 * [`RegEx-DoS`](https://github.com/jagracey/RegEx-DoS) - Analyzes source code for Regular Expressions susceptible to Denial of Service attacks.
 * [`sobelow`](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.

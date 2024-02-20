@@ -74,6 +74,7 @@ Your contributions and suggestions are heartily welcome. Please, check the [Guid
     - [Operating System Distributions](#operating-system-distributions)
     - [Online Operating Systems Resources](#online-operating-systems-resources)
   - [Penetration Testing](#penetration-testing)
+    - [Addintional Penetration Tools](#addintional-penetration-tools)
     - [Online Penetration Testing Resources](#online-penetration-testing-resources)
     - [Passwords](#passwords)
     - [Penetration Testing Report Templates](#penetration-testing-report-templates)
@@ -898,7 +899,16 @@ See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-co
 **[`^        back to top        ^`](#overview)**
 
 See also *[`Awesome Pentest`](https://github.com/enaqx/awesome-pentest)* - Collection of awesome penetration testing resources, tools and other shiny things.
+
 See also *[`Awesome Pentest Cheat Sheets`](https://github.com/coreb1t/awesome-pentest-cheat-sheets)* - Collection of the cheat sheets useful for pentesting.
+
+See also our *[`Penetration Testing Collection`](./penetration-testing/)* - Out custom collection of the cheat sheets useful for pentesting.
+
+### Addintional Penetration Tools
+
+**[`^        back to top        ^`](#overview)**
+
+* [`arsenal`](https://github.com/Orange-Cyberdefense/arsenal) - is just a quick inventory, reminder and launcher for pentest commands. 
 
 ### Online Penetration Testing Resources
 

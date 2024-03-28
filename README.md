@@ -1,10 +1,12 @@
 # Venom Information Security Collection
 
 <h1 align="center">
-  <a href="https://github.com/kraloveckey/venom"><img src="images/venom-logo.png" width=150 height=140 lt="Venom"></a>
+  <a href="https://github.com/kraloveckey/venom"><img src="images/img/venom-logo.png" width=150 height=140 lt="Venom"></a>
 </h1>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_notes)
 
 > The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
 
@@ -354,6 +356,7 @@ See also *[`Reverse Engineering`](#reverse-engineering)*.
 * [`hate_crack`](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
 * [`John the Ripper`](http://www.openwall.com/john/) - Fast password cracker.
 * [`JWT Cracker`](https://github.com/lmammino/jwt-cracker) - Simple HS256 JSON Web Token (JWT) token brute force cracker.
+* [`pydictor`](https://github.com/LandGrey/pydictor?tab=readme-ov-file) - A powerful and useful hacker dictionary builder for a brute-force attack.
 * [`Rar Crack`](http://rarcrack.sourceforge.net) - RAR bruteforce cracker.
 
 ------
@@ -585,8 +588,10 @@ See also *[`awesome-honeypots`](https://github.com/paralax/awesome-honeypots)* -
 **[`^        back to top        ^`](#overview)**
 
 * [`Above`](https://github.com/c4s73r/Above) - Automates the search for network vulnerabilities, designed for pentesters, Red Team operators, and network security engineers. 
+* [`Bolt`](https://github.com/s0md3v/Bolt) - CSRF Scanner.
 * [`Boofuzz`](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 * [`celerystalk`](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
+* [`CVS`](https://github.com/Safe3/CVS) - Powerful and customizable vulnerability scanner based on VDSL, which can replace Nessus or Nuclei, etc.
 * [`Deepfence SecretScanner`](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 * [`Deepfence ThreatMapper`](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [`Goby`](https://gobies.org/) - The new generation of network security technology achieves rapid security emergency through the establishment of a complete asset database for the target.
@@ -597,8 +602,12 @@ See also *[`awesome-honeypots`](https://github.com/paralax/awesome-honeypots)* -
 * [`Netsparker Application Security Scanner`](https://www.netsparker.com/pricing/) - Application security scanner to automatically find security flaws.
 * [`Netz`](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 * [`Nexpose`](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
+* [`nuclei`](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+* [`nuclei-templates`](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+* [`Nucleimonst3r`](https://github.com/blackhatethicalhacking/Nucleimonst3r) - Powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target.
 * [`OpenVAS`](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
 * [`Pompem`](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security.
+* [`trivy`](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more.
 * [`Vuls`](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
 ### Protocol Analyzers / Sniffers
@@ -909,7 +918,8 @@ See also our *[`Penetration Testing Collection`](./penetration-testing/)* - Out 
 **[`^        back to top        ^`](#overview)**
 
 * [`arsenal`](https://github.com/Orange-Cyberdefense/arsenal) - is just a quick inventory, reminder and launcher for pentest commands. 
-
+* [`SSH-Snake`](https://github.com/MegaManSec/SSH-Snake) - Self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
+* 
 ### Online Penetration Testing Resources
 
 **[`^        back to top        ^`](#overview)**

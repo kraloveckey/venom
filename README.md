@@ -808,6 +808,7 @@ See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-co
 * [`checksec.sh`](https://www.trapkit.de/tools/checksec.html) - Shell script designed to test what standard Linux OS and PaX security features are being used.
 * [`Fenrir`](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner bash script.
 * [`GTFOBins`](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+* [`GTFONow`](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 * [`How-To-Secure-A-Linux-Server`](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. 
 * [`Hwacha`](https://github.com/n00py/Hwacha) - Post-exploitation tool to quickly execute payloads via SSH on one or more Linux systems simultaneously.
 * [`LinEnum`](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks.

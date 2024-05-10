@@ -919,6 +919,7 @@ See also our *[`Penetration Testing Collection`](./penetration-testing/)* - Out 
 **[`^        back to top        ^`](#overview)**
 
 * [`arsenal`](https://github.com/Orange-Cyberdefense/arsenal) - is just a quick inventory, reminder and launcher for pentest commands. 
+* [`rsg`](https://github.com/mthbernardes/rsg) - A tool to generate various ways to do a reverse shell.
 * [`SSH-Snake`](https://github.com/MegaManSec/SSH-Snake) - Self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 * 
 ### Online Penetration Testing Resources

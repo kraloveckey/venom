@@ -838,6 +838,12 @@ Directory fuzzing:
 ffuf -u http://<host>/FUZZ -w /usr/share/dirb/wordlists/common.txt -mc 200,204,301,302,307
 ```
 
+Subdomain search with ffuf:
+
+```shell
+ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -u "<host>" -H "HOST: FUZZ.<host>" -c -fs 169
+```
+
 ### gobuster
 
 Let's search the directories with gobuster. In the parameters we specify the number of threads 128 (-t), URL (-u), dictionary (-w) and extensions we are interested in (-x).

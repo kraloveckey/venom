@@ -226,7 +226,7 @@ See also *[`Awesome Cyber Skills`](https://github.com/joe-shenouda/awesome-cyber
 * [`Safe`](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
 * [`Sops`](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 * [`Vault`](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
-
+* [`Yopass`](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
 ------
 
 ## Emails
@@ -1006,6 +1006,7 @@ See also our *[`Penetration Testing Collection`](./penetration-testing/)* - Out 
 
 * [`enum4linux-ng`](https://github.com/cddmp/enum4linux-ng) - Checking public resources for specified ranges on the local network.
 * [`MANSPIDER`](https://github.com/blacklanternsecurity/MANSPIDER) - Spider entire networks for juicy files sitting on SMB shares. Search filenames or file content - regex supported.
+* [`smbclient-ng`](https://github.com/p0dalirius/smbclient-ng) - A fast and user friendly way to interact with SMB shares.
 * [`smbmap`](https://github.com/ShawnDEvans/smbmap) - Checking public resources for specified ranges on the local network.
 * [`SMBSR`](https://github.com/oldboy21/SMBSR) - Lookup for interesting stuff in SMB shares.
 

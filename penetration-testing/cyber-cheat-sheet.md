@@ -836,6 +836,8 @@ Directory fuzzing:
 
 ```shell
 ffuf -u http://<host>/FUZZ -w /usr/share/dirb/wordlists/common.txt -mc 200,204,301,302,307
+
+ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-medium-directories.txt -u "http://<host>/FUZZ" -c
 ```
 
 Subdomain search with ffuf:

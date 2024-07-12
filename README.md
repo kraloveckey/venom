@@ -921,7 +921,8 @@ See also our *[`Penetration Testing Collection`](./penetration-testing/)* - Out 
 * [`arsenal`](https://github.com/Orange-Cyberdefense/arsenal) - is just a quick inventory, reminder and launcher for pentest commands. 
 * [`rsg`](https://github.com/mthbernardes/rsg) - A tool to generate various ways to do a reverse shell.
 * [`SSH-Snake`](https://github.com/MegaManSec/SSH-Snake) - Self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
-* 
+* [`SUDO_KILLER`](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
+
 ### Online Penetration Testing Resources
 
 **[`^        back to top        ^`](#overview)**

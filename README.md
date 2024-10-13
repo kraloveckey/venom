@@ -30,6 +30,7 @@ Your contributions and suggestions are heartily welcome. Please, check the [Guid
   - [Cloud Platform Attack Tools](#cloud-platform-attack-tools)
   - [Collaboration Tools](#collaboration-tools)
   - [CTF Tools / Resources / Courses](#ctf-tools--resources--courses)
+  - [Databases](#databases)
   - [Datastores](#datastores)
   - [Emails](#emails)
   - [Endpoint](#endpoint)
@@ -203,6 +204,14 @@ See also *[`Awesome Cyber Skills`](https://github.com/joe-shenouda/awesome-cyber
 * [`shellpop`](https://github.com/0x00-0x00/shellpop) - Easily generate sophisticated reverse or bind shell commands to help you save time during penetration tests.
 * [`TryHackMe`](https://tryhackme.com/) - Online platform for learning cyber security, using hands-on exercises and labs.
 
+------
+
+## Databases
+
+**[`^        back to top        ^`](#overview)**
+
+* [`PGTune`](https://github.com/le0pard/pgtune) - Tuning PostgreSQL config by your hardware.
+  
 ------
 
 ## Datastores
@@ -737,9 +746,15 @@ See also *[`awesome-osint`](https://github.com/jivoi/awesome-osint)*.
 **[`^        back to top        ^`](#overview)**
 
 * [`email2phonenumber`](https://github.com/martinvigo/email2phonenumber) - OSINT tool to obtain a target's phone number just by having his email address.
+* [`EmailFinder`](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
 * [`enola`](https://github.com/TheYahya/enola) - This is [Sherlock](https://github.com/sherlock-project/sherlock)'s sister Enola, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks.
+* [`experte.com`](experte.com/email-finder) - Free Email Search.
+* [`findemail.io`](findemail.io) - Find email addresses from any company.
+* [`hunter.io`](hunter.io/domain-search) - Find email addresses from any company name or website.
+* [`Infoga`](https://github.com/GiJ03/Infoga) or [`infoga`](infoga.io) - Email OSINT.
 * [`Moriarty-Project`](https://github.com/AzizKpln/Moriarty-Project) - this tool gives information about the phone number that you entered.
 * [`SimplyEmail`](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy.
+* [`snov.io`](snov.io/email-finder) - Find any email. Anywhere.
 * [`WhatBreach`](https://github.com/Ekultek/WhatBreach) - Search email addresses and discover all known breaches that this email has been seen in, and download the breached database if it is publicly available.
 
 ### Metadata harvesting and analysis

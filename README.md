@@ -578,6 +578,7 @@ See also *[`awesome-honeypots`](https://github.com/paralax/awesome-honeypots)* -
 * [`ScanCannon`](https://github.com/johnnyxmas/ScanCannon) - POSIX-compliant BASH script to quickly enumerate large networks by calling `masscan` to quickly identify open ports and then `nmap` to gain details on the systems/services on those ports.
 * [`scanless`](https://github.com/vesche/scanless) - Utility for using websites to perform port scans on your behalf so as not to reveal your own IP.
 * [`XRay`](https://github.com/evilsocket/xray) - Network (sub)domain discovery and reconnaissance automation tool.
+* [`WatchYourLAN`](https://github.com/aceberg/WatchYourLAN) -  Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history.
 * [`zmap`](https://zmap.io/) - Open source network scanner that enables researchers to easily perform Internet-wide network studies.
 
 ### Network Traffic Replay and Editing Tools
@@ -795,6 +796,7 @@ See also *[`awesome-osint`](https://github.com/jivoi/awesome-osint)*.
 
 See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-code-ripping-tools)*.
 
+* [`tartufo`](https://github.com/godaddy/tartufo) - Searches through git repositories for secrets, digging deep into commit history and branches. This is effective at finding secrets accidentally committed. tartufo also can be used by git pre-commit scripts to screen changes for secrets before they are committed to the repository.
 * [`vcsmap`](https://github.com/melvinsh/vcsmap) - Plugin-based tool to scan public version control systems for sensitive information.
 * [`Yar`](https://github.com/Furduhlutur/yar) - Clone git repositories to search through the whole commit history in order of commit time for secrets, tokens, or passwords.
 
@@ -814,6 +816,8 @@ See also *[`Web Accessible Source Code Ripping Tools`](#web-accessible-source-co
 ------
 
 ## Operating Systems
+
+See also *[`PEASS-ng`](https://github.com/peass-ng/PEASS-ng)* - Here you will find privilege escalation tools for Windows and Linux/Unix* and MacOS. These tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.
 
 ### Linux
 

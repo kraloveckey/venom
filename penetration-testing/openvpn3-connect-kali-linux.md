@@ -19,9 +19,9 @@ sudo apt install apt-transport-https
 Add sources.list, get the repo key for openvpn3 and install key:
 
 ```shell
-sudo wget -O /etc/apt/sources.list.d/openvpn3.list https://swupdate.openvpn.net/community/openvpn3/repos/openvpn3-bullseye.list
-wget https://swupdate.openvpn.net/repos/openvpn-repo-pkg-key.pub
-sudo apt-key add openvpn-repo-pkg-key.pub
+sudo mkdir -p /etc/apt/keyrings && curl -fsSL https://packages.openvpn.net/packages-repo.gpg | sudo tee /etc/apt/keyrings/openvpn.asc
+DISTRO=$(lsb_release -c | awk '{print $2}')
+echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/openvpn.asc] https://packages.openvpn.net/openvpn3/debian $DISTRO main" | sudo tee /etc/apt/sources.list.d/openvpn-packages.list
 ```
 
 Get Debian Bullseye dependencies which are not in Kali from Debian repos:

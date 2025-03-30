@@ -504,6 +504,7 @@ See also *[`Reverse Engineering`](#reverse-engineering)*.
 **[`^        back to top        ^`](#overview)**
 
 * [`abuseipdb`](https://www.abuseipdb.com/) - Check an IP Address, Domain Name, or Subnet.
+* [`cyberbro`](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
 * [`CloakQuest3r`](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others.
 * [`ifconfig.io`](https://ifconfig.io/) - What is my ip address?.
 * [`iknowwhatyoudownload`](https://iknowwhatyoudownload.com/en/peer/) - Use internet connection of other people (Wi Fi, their computers, tablets and smartphones) to know what they download in torrent network.
@@ -735,10 +736,12 @@ See also *[`awesome-osint`](https://github.com/jivoi/awesome-osint)*.
 * [`dork-cli`](https://github.com/jgor/dork-cli) - Command line Google dork tool.
 * [`fast-recon`](https://github.com/DanMcInerney/fast-recon) - Perform Google dorks against a domain.
 * [`github-dorks`](https://github.com/techgaun/github-dorks) - CLI tool to scan GitHub repos/organizations for potential sensitive information leaks.
+* [`git-hound`](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 * [`GooDork`](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
 * [`Google Hacking Database`](https://www.exploit-db.com/google-hacking-database/) - Database of Google dorks; can be used for recon.
 * [`pagodo`](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping.
 * [`snitch`](https://github.com/Smaash/snitch) - Information gathering via dorks.
+* [`tartufo`](https://github.com/godaddy/tartufo) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history.
 
 ### Email, phone search and analysis tools
 

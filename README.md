@@ -1143,6 +1143,7 @@ See also *[`Awesome Threat Modeling`](https://github.com/redshiftzero/awesome-th
 * [`Vulmon`](https://vulmon.com/) - Vulnerability search engine with vulnerability intelligence features that conducts full text searches in its database.
 * [`Vulnerability Lab`](https://www.vulnerability-lab.com/) - Open forum for security advisories organized by category of exploit target.
 * [`Vulners`](https://vulners.com/) - Security database of software vulnerabilities.
+* ['Vulert'](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 * [`Zero Day Initiative`](http://zerodayinitiative.com/advisories/published/) - Bug bounty program with publicly accessible archive of published security advisories, operated by TippingPoint.
 
 ------

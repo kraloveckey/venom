@@ -258,6 +258,7 @@ See also *[`Awesome Malware Analysis`](https://github.com/rshipp/awesome-malware
 
 * [`ClamAv`](http://www.clamav.net/) - ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 * [`Fastfinder`](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
+* [`gocheck`](https://github.com/gatariee/gocheck) - A golang implementation of Matterpreter's [`DefenderCheck`](https://github.com/matterpreter/DefenderCheck) that aims to aid red teams in their malware development capabilities by identifying the exact bytes in their malware that are flagged by security solutions.
 * [`Linux Malware Detect`](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 * [`LOKI`](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner.
 * [`rkhunter`](http://rkhunter.sourceforge.net/) - A Rootkit Hunter for Linux.

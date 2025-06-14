@@ -3,9 +3,6 @@
   <img src="../images/img/fox.png" alt="Pentest Cheat Sheets" width="300" />
 </p>
 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
 [`HackTricks`](https://book.hacktricks.xyz/) - the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
 
 This repo has a collection of snippets of codes and commands to help our lives!
@@ -1293,3 +1290,7 @@ httpd.serve_forever()
   - [RainbowCrack](https://project-rainbowcrack.com/table.htm)
 
 ---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>

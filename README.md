@@ -869,6 +869,7 @@ See also *[`PEASS-ng`](https://github.com/peass-ng/PEASS-ng)* - Here you will fi
 **[`^        back to top        ^`](#overview)**
 
 * [`Active Directory and Privilege Escalation (ADAPE)`](https://github.com/hausec/ADAPE-Script) - Umbrella script that automates numerous useful PowerShell modules to discover security misconfigurations and attempt privilege escalation against Active Directory.
+* [`ADACLScanner`] - A tool with GUI used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
 * [`Bloodhound`](https://github.com/adaptivethreat/Bloodhound/wiki) - Graphical Active Directory trust relationship explorer.
 * [`Commando VM`](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
 * [`Covenant`](https://github.com/cobbr/Covenant) - ASP .NET Core application that serves as a collaborative command and control platform for red teamers.
@@ -887,6 +888,7 @@ See also *[`PEASS-ng`](https://github.com/peass-ng/PEASS-ng)* - Here you will fi
 * [`RID_ENUM`](https://github.com/trustedsec/ridenum) - Python script that can enumerate all users from a Windows Domain Controller and crack those user's passwords using brute-force.
 * [`Rubeus`](https://github.com/GhostPack/Rubeus) - Toolset for raw Kerberos interaction and abuses.
 * [`Ruler`](https://github.com/sensepost/ruler) - Abuses client-side Outlook features to gain a remote shell on a Microsoft Exchange server.
+* [`SauronEye`](https://github.com/vivami/SauronEye) - Search tool to find specific files containing specific words, i.e. files containing passwords.
 * [`SCOMDecrypt`](https://github.com/nccgroup/SCOMDecrypt) - Retrieve and decrypt RunAs credentials stored within Microsoft System Center Operations Manager (SCOM) databases.
 * [`SprayingToolkit`](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, Outlook Web Access (OWA) and Office 365 (O365) a lot quicker, less painful and more efficient.
 * [`Sysinternals Suite`](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities.

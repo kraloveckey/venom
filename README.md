@@ -93,6 +93,7 @@ Your contributions and suggestions are heartily welcome. Please, check the [Guid
     - [Web Injection Tools](#web-injection-tools)
     - [Web Path Discovery / Bruteforcing Tools](#web-path-discovery--bruteforcing-tools)
     - [Web Proxies Intercepting](#web-proxies-intercepting)
+    - [Web Reconnaissance Tools](#web-reconnaissance-tools)
     - [Web Shells / C2 Frameworks](#web-shells--c2-frameworks)
     - [Web Subdomains](#web-subdomains)
     - [Web Vulnerability Scanners](#web-vulnerability-scanners)
@@ -628,8 +629,10 @@ See also *[`awesome-honeypots`](https://github.com/paralax/awesome-honeypots)* -
 * [`Live HTTP headers`](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) - Live HTTP headers is a free firefox addon to see your browser requests in real time. It shows the entire headers of the requests and can be used to find the security loopholes in implementations.
 * [`Moloch`](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
 * [`netsniff-ng`](https://github.com/netsniff-ng/netsniff-ng) - Swiss army knife for network sniffing.
+* [`NetworkMiner`](https://www.netresec.com/?page=NetworkMiner) – An open source network forensics tool that extracts artifacts, such as files, images, emails and passwords, from captured network traffic in PCAP files.
 * [`Netzob`](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
 * [`OpenFPC`](http://www.openfpc.org) - OpenFPC is a set of tools that combine to provide a lightweight full-packet network traffic recorder & buffering system. It's design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log management tools.
+* [`PCredz`](https://github.com/lgandx/PCredz) – This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
 * [`sniffglue`](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 * [`stenographer`](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
 * [`tcpdump/libpcap`](http://www.tcpdump.org/) - Common packet analyzer that runs under the command line.
@@ -882,6 +885,7 @@ See also *[`PEASS-ng`](https://github.com/peass-ng/PEASS-ng)* - Here you will fi
 * [`LaZagne`](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project.
 * [`MailSniper`](https://github.com/dafthack/MailSniper) - Modular tool for searching through email in a Microsoft Exchange environment, gathering the Global Address List from Outlook Web Access (OWA) and Exchange Web Services (EWS), and more.
 * [`mimikatz`](http://blog.gentilkiwi.com/mimikatz) - Credentials extraction tool for Windows operating system.
+* [`NauthNRPC`](https://github.com/sud0Ru/NauthNRPC) – Enumerate Domain Users Without Authentication.
 * [`PowerSploit`](https://github.com/PowerShellMafia/PowerSploit) - PowerShell Post-Exploitation Framework.
 * [`redsnarf`](https://github.com/nccgroup/redsnarf) - Post-exploitation tool for retrieving password hashes and credentials from Windows workstations, servers, and domain controllers.
 * [`Responder`](https://github.com/SpiderLabs/Responder) - Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and mDNS poisoner.
@@ -1234,6 +1238,12 @@ See also *[`Proxies and Machine-in-the-Middle (MITM) Tools`](#proxies-and-machin
 * [`Fiddler`](https://www.telerik.com/fiddler) - Free cross-platform web debugging proxy with user-friendly companion tools.
 * [`mitmproxy`](https://mitmproxy.org/) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [`OWASP Zed Attack Proxy (ZAP)`](https://www.zaproxy.org/) - Feature-rich, scriptable HTTP intercepting proxy and fuzzer for penetration testing web applications.
+
+### Web Reconnaissance Tools
+
+**[`^        back to top        ^`](#overview)**
+
+*[`reNgine`](https://github.com/yogeshojha/rengine) – n automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface.
 
 ### Web Shells / C2 Frameworks
 

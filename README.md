@@ -98,6 +98,7 @@ Your contributions and suggestions are heartily welcome. Please, check the [Guid
     - [Web Subdomains](#web-subdomains)
     - [Web Vulnerability Scanners](#web-vulnerability-scanners)
   - [Web Servers](#web-servers)
+  - [Zero Trust](#zero-trust)
   - [Useful Resources](#useful-resources)
     - [Documents / Images](#documents--images)
     - [Security Awesome Lists](#security-awesome-lists)
@@ -162,6 +163,7 @@ See also *[`HackingThe.cloud`](https://hackingthe.cloud/)*.
 * [`Cloud Container Attack Tool (CCAT)`](https://rhinosecuritylabs.com/aws/cloud-container-attack-tool/) - Tool for testing security of container environments.
 * [`CloudHunter`](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
 * [`Cloudsplaining`](https://cloudsplaining.readthedocs.io/) - Identifies violations of least privilege in AWS IAM policies and generates a pretty HTML report with a triage worksheet.
+* [`cloudsploit`](https://github.com/aquasecurity/cloudsploit) – An open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub. These scripts are designed to return a series of potential misconfigurations and security risks.
 * [`Endgame`](https://endgame.readthedocs.io/) - AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account.
 * [`GCPBucketBrute`](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
 
@@ -191,6 +193,7 @@ See also *[`Awesome Cyber Skills`](https://github.com/joe-shenouda/awesome-cyber
 * [`CTF Field Guide`](https://trailofbits.github.io/ctf/) - Everything you need to win your next CTF competition.
 * [`Cybrary`](http://cybrary.it) - Free courses in ethical hacking and advanced penetration testing. Advanced penetration testing courses are based on the book 'Penetration Testing for Highly Secured Environments'.
 * [`Hack The Box`](https://www.hackthebox.com/) - An online cybersecurity training platform allowing IT professionals to advance their ethical hacking skills and be part of a worldwide community.
+* [`leaked-system-prompts`](https://github.com/jujumilk3/leaked-system-prompts) – This repository is a collection of leaked system prompts from widely used LLM based services.
 * [`Offensive Security Training`](https://www.offensive-security.com/information-security-training/) - Training from BackTrack/Kali developers.
 * [`Open Security Training`](http://opensecuritytraining.info/) - Training material for computer security classes.
 * [`OverTheWire War Games`](https://overthewire.org/wargames/bandit/bandit0.html) - The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
@@ -566,6 +569,7 @@ See also *[`awesome-honeypots`](https://github.com/paralax/awesome-honeypots)* -
 * [`dnsrecon`](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 * [`dnstracer`](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
 * [`fierce`](https://github.com/mschwager/fierce) - Python3 port of the original `fierce.pl` DNS reconnaissance tool for locating non-contiguous IP space.
+* [`graphpath`](https://github.com/ocochard/graphpath) – Graphpath generates an ASCII network diagram from the route table of a Unix/Linux.
 * [`MAC Address Vendor Lookup`](https://mac-address.alldatafeeds.com/mac-address-lookup) - By a given MAC address/OUI/IAB, retrieve OUI vendor information, detect virtual machines, manufacturer, locations, read the information encoded in the MAC, and get our research's results regarding any MAC address, OUI, IAB, IEEE.
 * [`Mass Scan`](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 * [`netdiscover`](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
@@ -827,6 +831,7 @@ See also *[`PEASS-ng`](https://github.com/peass-ng/PEASS-ng)* - Here you will fi
 **[`^        back to top        ^`](#overview)**
 
 * [`Bashark`](https://github.com/redcode-labs/Bashark) - Aids pentesters and security researchers during the post-exploitation phase of security audit.
+* [`boring`](https://github.com/alebeck/boring) – The `boring` SSH tunnel manager.
 * [`checksec.sh`](https://www.trapkit.de/tools/checksec.html) - Shell script designed to test what standard Linux OS and PaX security features are being used.
 * [`Fenrir`](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner bash script.
 * [`GTFOBins`](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
@@ -1305,6 +1310,12 @@ See also *[`Proxies and Machine-in-the-Middle (MITM) Tools`](#proxies-and-machin
 * [`nginx playground`](https://nginx-playground.wizardzines.com/) - Paste in an nginx config, and then a server starts nginx for you and runs any curl or http command you want against that nginx server.
 * [`nginxpwner`](https://github.com/stark0de/nginxpwner) - Simple tool to look for common Nginx misconfigurations and vulnerabilities.
 * [`Server Side TLS`](https://wiki.mozilla.org/Security/Server_Side_TLS) - help teams with the configuration of TLS.
+
+------
+
+## Zero Trust
+
+* [`octelium`](https://github.com/octelium/octelium) – A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 
 ------
 

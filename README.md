@@ -433,7 +433,7 @@ See also *[`Reverse Engineering`](#reverse-engineering)*.
 * [`Intercepter-NG`](http://sniff.su/) - Multifunctional network toolkit.
 * [`Legion`](https://github.com/GoVanguard/legion) - Graphical semi-automated discovery and reconnaissance framework based on Python 3 and forked from SPARTA.
 * [`Ncrack`](https://nmap.org/ncrack/) - High-speed network authentication cracking tool built to help companies secure their networks by proactively testing all their hosts and networking devices for poor passwords.
-* [`NetExec`](https://github.com/Pennyw0rth/NetExec) - Network service exploitation tool that helps automate assessing the security of large networks.
+* [`NetExec`](https://github.com/Pennyw0rth/NetExec) - A network service exploitation tool that helps automate assessing the security of large networks.
 * [`Network-Tools.com`](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
 * [`pivotsuite`](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
 * [`Praeda`](http://h.foofus.net/?page_id=218) - Automated multi-function printer data harvester for gathering usable data during security assessments.

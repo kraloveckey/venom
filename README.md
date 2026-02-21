@@ -80,6 +80,7 @@ Your contributions and suggestions are heartily welcome. Please, check the [Guid
   - [Physical Access Tools](#physical-access-tools)
   - [Reverse Engineering](#reverse-engineering)
   - [Samba Enumerating](#samba-enumerating)
+  - [Sharing](#sharing)
   - [Social Engineering](#social-engineering)
   - [Static Analyzers](#static-analyzers)
   - [Steganography Tools](#steganography-tools)
@@ -221,6 +222,7 @@ See also *[`Awesome Cyber Skills`](https://github.com/joe-shenouda/awesome-cyber
 **[`^        back to top        ^`](#overview)**
 
 * [`acra`](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
+* [`aliasvault`](https://github.com/aliasvault/aliasvault) – Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 * [`aws-vault`](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 * [`blackbox`](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
 * [`chamber`](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
@@ -236,6 +238,7 @@ See also *[`Awesome Cyber Skills`](https://github.com/joe-shenouda/awesome-cyber
 * [`redoctober`](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
 * [`Safe`](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
 * [`Sops`](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
+* [`TeamPass`](https://github.com/nilsteampassnet/TeamPass) – A Collaborative Passwords Manager solution installed On-Premise.
 * [`Vault`](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 * [`Yopass`](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
 ------
@@ -1045,6 +1048,15 @@ See also our *[`Penetration Testing Collection`](./penetration-testing/)* - Out 
 * [`smbclient-ng`](https://github.com/p0dalirius/smbclient-ng) - A fast and user friendly way to interact with SMB shares.
 * [`smbmap`](https://github.com/ShawnDEvans/smbmap) - Checking public resources for specified ranges on the local network.
 * [`SMBSR`](https://github.com/oldboy21/SMBSR) - Lookup for interesting stuff in SMB shares.
+
+------
+
+## Sharing
+
+**[`^        back to top        ^`](#overview)**
+
+* [`cryptgeon`](https://github.com/cupcakearmy/cryptgeon) - A secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
+* [`yopass`](https://github.com/jhaals/yopass) – Secure sharing of secrets, passwords and files.
 
 ------
 

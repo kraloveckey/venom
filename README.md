@@ -886,6 +886,8 @@ See also *[`PEASS-ng`](https://github.com/peass-ng/PEASS-ng)* - Here you will fi
 
 * [`Active Directory and Privilege Escalation (ADAPE)`](https://github.com/hausec/ADAPE-Script) - Umbrella script that automates numerous useful PowerShell modules to discover security misconfigurations and attempt privilege escalation against Active Directory.
 * [`ADACLScanner`] - A tool with GUI used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
+* [`ADPulse`](https://github.com/dievus/ADPulse) – Active Directory Vulnerability Scanner.
+* [`adscan`](https://github.com/ADScanPro/adscan) – A pentesting tool focused on automating collection, enumeration and common attack paths in Active Directory. It provides an interactive CLI with a wide range of commands to streamline internal audits and AD-focused pentests.
 * [`Bloodhound`](https://github.com/adaptivethreat/Bloodhound/wiki) - Graphical Active Directory trust relationship explorer.
 * [`Commando VM`](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
 * [`Covenant`](https://github.com/cobbr/Covenant) - ASP .NET Core application that serves as a collaborative command and control platform for red teamers.
@@ -893,9 +895,12 @@ See also *[`PEASS-ng`](https://github.com/peass-ng/PEASS-ng)* - Here you will fi
 * [`DeathStar`](https://github.com/byt3bl33d3r/DeathStar) - Python script that uses Empire's RESTful API to automate gaining Domain Admin rights in Active Directory environments.
 * [`DomainPasswordSpray`](https://github.com/dafthack/DomainPasswordSpray) - Tool written in PowerShell to perform a password spray attack against users of a domain.
 * [`Empire`](https://www.powershellempire.com/) - Pure PowerShell post-exploitation agent.
+* [`ExtractBitlockerKeys`](https://github.com/Zamanry/ExtractBitlockerKeys) – A system administration or post-exploitation script to automatically extract the bitlocker recovery keys from a domain.
 * [`Fibratus`](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+* [`gMSADumper`](https://github.com/Zamanry/gMSADumper) – Lists who can read any gMSA password blobs and parses them if the current user has access.
 * [`Inveigh`](https://github.com/Kevin-Robertson/Inveigh) - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/machine-in-the-middle tool.
 * [`LaZagne`](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project.
+* [`LAPSDumper`](https://github.com/Zamanry/LAPSDumper) – Dumping LAPS from Python.
 * [`MailSniper`](https://github.com/dafthack/MailSniper) - Modular tool for searching through email in a Microsoft Exchange environment, gathering the Global Address List from Outlook Web Access (OWA) and Exchange Web Services (EWS), and more.
 * [`mimikatz`](http://blog.gentilkiwi.com/mimikatz) - Credentials extraction tool for Windows operating system.
 * [`NauthNRPC`](https://github.com/sud0Ru/NauthNRPC) – Enumerate Domain Users Without Authentication.

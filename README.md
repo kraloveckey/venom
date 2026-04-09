@@ -1,18 +1,23 @@
 # Venom Information Security Collection
 
 <h1 align="center">
-  <a href="https://github.com/kraloveckey/venom"><img src="images/img/venom-logo.png" width=150 height=140 lt="Venom"></a>
+  <a href="https://github.com/kraloveckey/venom"><img src=".assets/venom-logo.png" width=200 height=185 lt="Venom Information Security Collection"></a>
 </h1>
 
+> [!IMPORTANT]
 > The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
 
 [`Information security (or InfoSec)`](https://en.wikipedia.org/wiki/Information_security), is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or reducing the probability of unauthorized/inappropriate access to data, or the unlawful use, disclosure, disruption, deletion, corruption, modification, inspection, recording, or devaluation of information. It also involves actions intended to reduce the adverse impacts of such incidents. Information security's primary focus is the balanced protection of the data confidentiality, data integrity, and data availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.
 
-[`Penetration testing (or PenTesting)`](https://en.wikipedia.org/wiki/Penetration_test) is the practice of launching authorized, simulated attacks against computer systems and their physical infrastructure to expose potential security weaknesses and vulnerabilities. The purpose of this simulated attack is to identify any weak spots in a system’s defenses which attackers could take advantage of. This is like a bank hiring someone to dress as a burglar and try to break into their building and gain access to the vault. If the ‘burglar’ succeeds and gets into the bank or the vault, the bank will gain valuable information on how they need to tighten their security measures. Should you discover a vulnerability, please follow [this guidance](https://kb.cert.org/vuls/guidance/) to report it responsibly.
+[`Penetration testing (or PenTesting)`](https://en.wikipedia.org/wiki/Penetration_test) is the practice of launching authorized, simulated attacks against computer systems and their physical infrastructure to expose potential security weaknesses and vulnerabilities. The purpose of this simulated attack is to identify any weak spots in a system’s defenses which attackers could take advantage of. This is like a bank hiring someone to dress as a burglar and try to break into their building and gain access to the vault. If the 'burglar' succeeds and gets into the bank or the vault, the bank will gain valuable information on how they need to tighten their security measures. Should you discover a vulnerability, please follow [this guidance](https://kb.cert.org/vuls/guidance/) to report it responsibly.
+
+> [!NOTE]
+> Find out more about `Penetration testing (PenTesting`) in my project at [kraloveckey/fox](https://github.com/kraloveckey/fox).
 
 ---------
 
-Your contributions and suggestions are heartily welcome. Please, check the [Guide](CONTRIBUTING.md) for more details.
+> [!IMPORTANT]
+> Your contributions and suggestions are heartily welcome. Please, check the [Guide](CONTRIBUTING.md) for more details.
 
 ------
 
@@ -121,6 +126,7 @@ Your contributions and suggestions are heartily welcome. Please, check the [Guid
 * [`Hachoir`](https://hachoir.readthedocs.io/) - Python library to view and edit a binary stream as tree of fields and tools for metadata extraction.
 * [`Kaitai Struct`](http://kaitai.io/) - File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
 * [`peepdf`](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Python tool to explore PDF files in order to find out if the file can be harmful or not.
+* [`pompelmi`](https://github.com/pompelmi/pompelmi) – Open-source route-level upload security for Node.js teams that need to inspect untrusted files before disk, object storage, previews, or downstream parsers. can files before storage to detect malware, MIME spoofing, and risky archives.
 * [`Veles`](https://codisec.com/veles/) - Binary data visualization and analysis tool.
 
 ------
@@ -1133,6 +1139,7 @@ See also *[`Awesome Threat Modeling`](https://github.com/redshiftzero/awesome-th
 * [`Cyware Threat Intelligence Feeds`](https://cyware.com/community/ctix-feeds) - Cyware’s Threat Intelligence feeds brings to you the valuable threat data from a wide range of open and trusted sources to deliver a consolidated stream of valuable and actionable threat intelligence. Our threat intel feeds are fully compatible with STIX 1.x and 2.0, giving you the latest information on malicious malware hashes, IPs and domains uncovered across the globe in real-time.
 * [`DNS-BH`](http://www.malwaredomains.com/) - The DNS-BH project creates and maintains a listing of domains that are known to be used to propagate malware and spyware. This project creates the Bind and Windows zone files required to serve fake replies to localhost for any requests to these, thus preventing many spyware installs and reporting.
 * [`Emerging Threats - Open Source`](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ) - Emerging Threats began 10 years ago as an open source community for collecting Suricata and SNORT® rules, firewall rules, and other IDS rulesets. The open source community still plays an active role in Internet security, with more than 200,000 active users downloading the ruleset daily. The ETOpen Ruleset is open to any user or organization, as long as you follow some basic guidelines. Our ETOpen Ruleset is available for download any time.
+* [`ExtSentry`](https://extsentry.github.io/) – Threat intelligence feed for browser extensions.
 * [`FireEye OpenIOCs`](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
 * [`IntelMQ`](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 * [`Internet Storm Center`](https://www.dshield.org/reports.html) - The ISC was created in 2001 following the successful detection, analysis, and widespread warning of the Li0n worm. Today, the ISC provides a free analysis and warning service to thousands of Internet users and organizations, and is actively working with Internet Service Providers to fight back against the most malicious attackers.
@@ -1348,8 +1355,9 @@ See also *[`Proxies and Machine-in-the-Middle (MITM) Tools`](#proxies-and-machin
 
 **[`^        back to top        ^`](#overview)**
 
-* [`documents`](documents)
-* [`images`](images)
+* [`documents`](./documents/)
+* [`images`](./images/)
+* [`skills`](./skills/)
 
 ### Security Awesome Lists
 

@@ -1,13 +1,16 @@
 # Contribution Guidelines
 
+> [!IMPORTANT]
 > Your pull request should have a useful title. Please carefully read everything in [Adding to this list](#adding-to-this-list).
 
 ------
 
 ## Table of Contents
 
-* [`Adding to this list`](#adding-to-this-list)
-* [`Updating your Pull Request`](#updating-your-pull-request)
+- [Contribution Guidelines](#contribution-guidelines)
+  - [Table of Contents](#table-of-contents)
+  - [Adding to this list](#adding-to-this-list)
+  - [Updating your Pull Request](#updating-your-pull-request)
 
 ------
 

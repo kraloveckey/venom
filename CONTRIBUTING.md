@@ -22,7 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Make sure the item you are adding is useful (and, you know, awesome) before submitting. That implies it having enough content and every item a good succinct description.
 * Make an individual pull request for each suggestion.
 * Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-* Use the following format: ``* [`Item Name`](link)`` - Short description.
+* Use the following format: ``* [`Item Name`](link)`` – Short description.
 * Link additions should be added to the bottom of the relevant category.
 * New categories or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.

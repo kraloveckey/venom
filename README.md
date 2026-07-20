@@ -219,6 +219,7 @@ See also *[`HackingThe.cloud`](https://hackingthe.cloud/)*.
 * [`Dradis`](https://dradisframework.com) – Open-source reporting and collaboration tool for IT security professionals.
 * [`Lair`](https://github.com/lair-framework/lair/wiki) – Reactive attack collaboration framework and web application built with meteor.
 * [`Pentest Collaboration Framework (PCF)`](https://gitlab.com/invuls/pentest-projects/pcf) – Open source, cross-platform, and portable toolkit for automating routine pentest processes with a team.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 * [`Reconmap`](https://reconmap.org/) – Open-source collaboration platform for InfoSec professionals that streamlines the pentest process.
 * [`RedELK`](https://github.com/outflanknl/RedELK) – Track and alarm about Blue Team activities while providing better usability in long term offensive operations.
 * [`sysreptor`](https://github.com/Syslifters/sysreptor) – A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.

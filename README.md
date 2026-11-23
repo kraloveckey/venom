@@ -385,6 +385,7 @@ See also *[`Awesome WebAuthn`](https://github.com/herrjemand/awesome-webauthn)* 
 * [`Fleet device management`](https://github.com/fleetdm/fleet) – Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
 * [`GLPi`](https://github.com/glpi-project/glpi) – Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 * [`Rudder`](http://www.rudder-project.org/) – Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Automate common system administration tasks (installation, configuration); Enforce configuration over time (configuring once is good, ensuring that configuration is valid and automatically fixing it is better); Inventory of all managed nodes; Web interface to configure and manage nodes and their configuration; Compliance reporting, by configuration and/or by node.
+* [`vps-first-boot`](https://github.com/bigdomainhost/vps-first-boot) – Day-one hardening script for Ubuntu and Debian VPS: creates a sudo user with key login, enables ufw and fail2ban, turns on security updates, and disables root and password SSH only after confirming the new login works.
 
 ### Mobile / Android / iOS
 
